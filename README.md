@@ -1,3 +1,5 @@
+***This repo is a clone of [entria-fullstack](https://github.com/entria/entria-fullstack) with all the web and server packages updated.***
+
 # Entria FullStack Playground
 ![supported version](https://badgen.net/badge/node/lts/green)
 
