@@ -29,16 +29,3 @@ Start Package
 ```
 yarn web:start
 ```
-
-### Run App Package
-We recommend that you read https://facebook.github.io/react-native/docs/getting-started before starting
-
-Compile Relay
-```
-yarn app:relay
-```
-
-Start Package
-```
-yarn app:start
-```
